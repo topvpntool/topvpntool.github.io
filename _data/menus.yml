@@ -1,11 +1,11 @@
 # Top Menu
 topmenu:
 
-- title: Home
+- title: 中国VPN推荐
   url: ""
 
-- title: About
-  url: "about/"
+- title: 翻墙软件
+  url: "/gfw/"
 
 - title: Contact
   url: "contact/"
