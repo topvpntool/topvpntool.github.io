@@ -12,8 +12,6 @@ post_class: post-template
   <!-- Post -->
   {% assign first_page = site.posts | reverse | first" %}
 
-  {% assign author = site.authors[first_page.author] %}
-
   <div class="col-sm-8">
     <!-- Post Featured Image -->
     {% if first_page.image %}<img class="featured-image img-fluid rounded" src="{{ site.baseurl }}/{{ first_page.image }}" alt="{{ first_page.title }}">{% endif %}
@@ -39,13 +37,6 @@ post_class: post-template
     </div>
 
 
-
-    <!-- Post Content -->
-    <div class="article-post serif-font">
-      {{first_page.content}}
-      <div class="clearfix"></div>
-    </div>
-
     <!-- Post Date -->
     <p>
       <small>
@@ -56,7 +47,11 @@ post_class: post-template
       </small>
     </p>
 
-
+    <!-- Post Content -->
+    <div class="article-post serif-font">
+      {{first_page.content}}
+      <div class="clearfix"></div>
+    </div>
 
     <!-- Prev/Next -->
     <div class="row PageNavigation mt-4 prevnextlinks d-flex justify-content-between">
