@@ -1,60 +1,121 @@
 ---
-title: Home
 layout: default
-background: '/img/bg-index.jpg'
+disqus: false
+archive: false
+post_class: post-template
+title:  "Tree of Codes"
+author: sal
+categories: [ Jekyll, tutorial ]
+image: assets/images/2.jpg
 ---
 
-<!-- Home Intro
+<!-- Begin Article
 ================================================== -->
-{% if page.url == "/" %} 
-<div class="rounded mb-5 hero">
-  <div class="row align-items-center justify-content-between">
-    <div class="col-md-6">
-      <h1 class="font-weight-bold mb-4 serif-font">Let me  teach you how to become successful online</h1>
-      <p class="lead mb-4">My name is Lyam and I'm here to share with you my knowledge and experience of over 10 years of monetizing my blog.</p>
-      <a href="{{site.baseurl}}/about" class="btn btn-dark text-white px-5 btn-lg">About me</a>
-    </div>
-    <div class="col-md-6 text-right pl-0 pl-lg-4">
-      <img class="intro" height="500" src="{{site.baseurl}}/assets/images/intro.svg">      
-    </div>
-  </div>
-</div>
-{% endif %}
 
-<!-- Featured
-================================================== -->
-<section class="row">
-  {% for post in site.posts %}
-      {% if post.featured == true %}
-          <div class="col-md-4 mb-5">
-          {% include postbox.html %}
-          </div>
-      {% endif %}
-  {% endfor %}
-  </div>
-</section>
+<div class="row">
+  <!-- Post -->
+  {% assign author = site.authors[page.author] %}
 
-<!-- Posts List with Sidebar (except featured)
-================================================== -->
-<section class="row">
   <div class="col-sm-8">
-    <div class="row">
-      {% for post in paginator.posts %}
-      {% unless post.featured == true %}
-      <div class="col-md-6 mb-5">
-        {% include postbox.html %}
+    <!-- Post Featured Image -->
+    {% if page.image %}<img class="featured-image img-fluid rounded" src="{{ site.baseurl }}/{{ page.image }}" alt="{{ page.title }}">{% endif %}
+    <!-- End Featured Image -->
+    <div class="mainheading">
+
+      <!-- Post Categories -->
+      <div class="after-post-tags">
+        <ul class="tags">
+          {% assign sortedCategories = page.categories | sort %}
+          {% for category in sortedCategories %}
+          <li>
+            <a href="{{ site.baseurl }}/categories#{{ category | slugify }}">{{ category }}</a>
+          </li>
+          {% endfor %}
+        </ul>
       </div>
-      {% endunless %}
-      {% endfor %}
+      <!-- End Categories -->
+
+      <!-- Post Title -->
+      <h1 class="posttitle">{{ page.title }}</h1>
+
     </div>
-    <!-- Pagination -->
-    <div class="bottompagination">
-      <span class="navigation" role="navigation">
-          {% include pagination.html %}
-      </span>
+
+
+
+    <!-- Post Content -->
+    <div class="article-post serif-font">
+      {{content}}
+      <div class="clearfix"></div>
     </div>
+
+    <!-- Post Date -->
+    <p>
+      <small>
+        <span class="post-date"><time class="post-date" datetime="{{ page.date | date:"%Y-%m-%d" }}">{{ page.date | date_to_string }}</time></span>
+        {% if page.last_modified_at %}
+        (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
+        {% endif %}
+      </small>
+    </p>
+
+
+
+    <!-- Prev/Next -->
+    <div class="row PageNavigation mt-4 prevnextlinks d-flex justify-content-between">
+      {% if page.previous.url %}
+      <div class="col-md-6 rightborder pl-0">
+        <a class="thepostlink" href="{{page.previous.url | absolute_url}}">&laquo; {{page.previous.title}}</a>
+      </div>
+      {% endif %}
+      {% if page.next.url %}
+      <div class="col-md-6 text-right pr-0">
+        <a class="thepostlink" href="{{page.next.url | absolute_url}}">{{page.next.title}} &raquo;</a>
+      </div>
+      {% endif %}
+    </div>
+    <!-- End Prev/Next -->
+
+
+    <!-- Author Box -->
+    {% if page.author %}
+    <div class="row post-top-meta">
+      <div class="col-md-2">
+        <img class="author-thumb" src="{{site.baseurl}}/{{author.avatar}}" alt="{{ author.display_name }}">
+      </div>
+      <div class="col-md-10">
+        <a target="_blank" class="link-dark" href="{{ author.web }}">{{ author.display_name }}</a><a target="_blank" href="{{ author.twitter }}" class="btn follow">Follow</a>
+        <span class="author-description">{{ author.description }}</span>
+      </div>
+    </div>
+    {% endif %}
+
+
+    <!-- Begin Comments
+    ================================================== -->
+    <section>
+      <div id="comments">
+        {% include disqus.html %}
+      </div>
+    </section>
+    <!--End Comments
+    ================================================== -->
+
+
+
   </div>
+  <!-- End Post -->
+
+
+
+
+  <!-- Sidebar -->
   <div class="col-sm-4">
     {% include sidebar.html %}
   </div>
-</section>
+
+
+
+</div>
+
+<!-- End Article
+================================================== -->
