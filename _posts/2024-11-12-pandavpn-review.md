@@ -2,7 +2,7 @@
 layout: post
 title:  "PandaVPN（熊猫VPN)测评，在实际使用中，到底怎么样呢？"
 author: sal
-image: assets/images/2.jpg
+image: assets/images/6.jpg
 ---
 Panda VPN 是一款3000万+用户都在在使用的一线 VPN 服务，并且得到了广泛好评，但它的使用体验真的名副其实吗? 关于这点，我们采用了腾讯云、阿里云、亚马逊等大型互联网服务商提供的顶级服务器进行多重测试。包括速度、延迟性、不同据点对于速度的影响，以验证 Panda VPN 的各项功能是否都能良好的运行。
 
