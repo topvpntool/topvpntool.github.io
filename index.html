@@ -3,10 +3,6 @@ layout: default
 disqus: false
 archive: false
 post_class: post-template
-title:  "Tree of Codes"
-author: sal
-categories: [ Jekyll, tutorial ]
-image: assets/images/2.jpg
 ---
 
 <!-- Begin Article
@@ -14,6 +10,7 @@ image: assets/images/2.jpg
 
 <div class="row">
   <!-- Post -->
+  {% assign page = site.pages | where: "permalink", "/" | first %}
   {% assign author = site.authors[page.author] %}
 
   <div class="col-sm-8">
