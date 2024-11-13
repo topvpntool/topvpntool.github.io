@@ -1,10 +1,9 @@
 ---
-layout: page
-title: 2024年中国好用的VPN推荐，安全可靠的翻墙软件
+layout: post
+title:  "Tree of Codes"
 author: sal
-permalink: "/"
 categories: [ Jekyll, tutorial ]
-image: assets/images/6.jpg
+image: assets/images/2.jpg
 ---
 
 中国大陆网络环境特殊，众所周知，翻墙属于“灰色行为”，因此 VPN 行业也属于“灰色行业”，VPN 稳定运行就有许多不稳定的因素，我们要如何从这纷繁复杂的环境中，将好用的、适用于中国的 VPN 挑选出来为我们所用？专业的事当然要交给我们这些专业测评 VPN 的人来做。
