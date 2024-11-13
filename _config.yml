@@ -1,0 +1,56 @@
+title: "topvpntool"
+email: wowthemesnet@gmail.com
+timezone: UTC
+baseurl: "/"
+permalink: "/:title/"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: Sal
+paginate: 30
+disqus: 'demowebsite'
+locale: en_us
+lang: en_us
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: G-296WBESEN2
+
+# Authors
+authors:
+  sal:
+    name: Sal
+    display_name: Sal
+    avatar: 'assets/images/sal.png'
+    email: 1@gmail.com
+    web: https://topvpntool.github.io/
+    twitter: https://topvpntool.github.io/
+    description: "This is the author box."
+  john:
+    name: John
+    display_name: John
+    avatar: 'assets/images/john.png'
+    email: 2@gmail.com
+    web: https://topvpntool.github.io/
+    twitter: https://topvpntool.github.io/
+    description: "This is the author box."
+
+# Social
+social:
+  instagram: https://topvpntool.github.io/
+  facebook: https://topvpntool.github.io/
+  twitter: https://topvpntool.github.io/
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
