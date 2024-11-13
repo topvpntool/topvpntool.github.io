@@ -10,7 +10,13 @@ post_class: post-template
 
 <div class="row">
   <!-- Post -->
-  {% assign first_page = site.posts | where_exp: "post", "post.url == '/2024/11/12/best-vpn-china/'" %}
+  {% assign first_page = site.posts | first %}
+
+  <ul>
+    {% for post in site.posts %}
+    <li><a href="{{ post.url }}">{{ post.url }}</a></li>
+    {% endfor %}
+  </ul>
 
   {% assign author = site.authors[first_page.author] %}
 
