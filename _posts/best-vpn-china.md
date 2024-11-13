@@ -1,8 +1,7 @@
 ---
 layout: post
-title:  "Tree of Codes"
+title:  "2024年中国好用的VPN推荐，安全可靠的翻墙软件"
 author: sal
-categories: [ Jekyll, tutorial ]
 image: assets/images/2.jpg
 ---
 

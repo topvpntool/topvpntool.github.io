@@ -10,7 +10,7 @@ post_class: post-template
 
 <div class="row">
   <!-- Post -->
-  {% assign first_page = site.pages | first %}
+  {% assign first_page = site.posts | first %}
 
   {% assign author = site.authors[first_page.author] %}
 
@@ -19,19 +19,6 @@ post_class: post-template
     {% if first_page.image %}<img class="featured-image img-fluid rounded" src="{{ site.baseurl }}/{{ first_page.image }}" alt="{{ first_page.title }}">{% endif %}
     <!-- End Featured Image -->
     <div class="mainheading">
-
-      <!-- Post Categories -->
-      <div class="after-post-tags">
-        <ul class="tags">
-          {% assign sortedCategories = first_page.categories | sort %}
-          {% for category in sortedCategories %}
-          <li>
-            <a href="{{ site.baseurl }}/categories#{{ category | slugify }}">{{ category }}</a>
-          </li>
-          {% endfor %}
-        </ul>
-      </div>
-      <!-- End Categories -->
 
       <!-- Post Title -->
       <h1 class="posttitle">{{ first_page.title }}</h1>
@@ -86,19 +73,6 @@ post_class: post-template
       </div>
     </div>
     {% endif %}
-
-
-    <!-- Begin Comments
-    ================================================== -->
-    <section>
-      <div id="comments">
-        {% include disqus.html %}
-      </div>
-    </section>
-    <!--End Comments
-    ================================================== -->
-
-
 
   </div>
   <!-- End Post -->
