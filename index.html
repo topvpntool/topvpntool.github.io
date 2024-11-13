@@ -10,7 +10,7 @@ post_class: post-template
 
 <div class="row">
   <!-- Post -->
-  {% assign page = site.pages | where: "permalink", "/" | first %}
+  {% assign page = site.pages | first %}
   {% assign author = site.authors[page.author] %}
 
   <div class="col-sm-8">
