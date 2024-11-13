@@ -20,6 +20,19 @@ post_class: post-template
     <!-- End Featured Image -->
     <div class="mainheading">
 
+      <!-- Post Categories -->
+      <div class="after-post-tags">
+        <ul class="tags">
+          {% assign sortedCategories = first_page.categories | sort %}
+          {% for category in sortedCategories %}
+          <li>
+            <a href="{{ site.baseurl }}/categories#{{ category | slugify }}">{{ category }}</a>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      <!-- End Categories -->
+
       <!-- Post Title -->
       <h1 class="posttitle">{{ first_page.title }}</h1>
 
@@ -73,6 +86,19 @@ post_class: post-template
       </div>
     </div>
     {% endif %}
+
+
+    <!-- Begin Comments
+    ================================================== -->
+    <section>
+      <div id="comments">
+        {% include disqus.html %}
+      </div>
+    </section>
+    <!--End Comments
+    ================================================== -->
+
+
 
   </div>
   <!-- End Post -->
