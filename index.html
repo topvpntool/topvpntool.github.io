@@ -10,7 +10,7 @@ post_class: post-template
 
 <div class="row">
   <!-- Post -->
-  {% assign first_page = site.posts | where_exp: "post", "post.url == '/best-vpn-china/'" %}
+  {% assign first_page = site.posts | reverse | first" %}
 
   {% assign author = site.authors[first_page.author] %}
 
