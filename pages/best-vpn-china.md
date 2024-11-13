@@ -1,7 +1,9 @@
 ---
 layout: page
 title: 2024年中国好用的VPN推荐，安全可靠的翻墙软件
+author: sal
 permalink: "/"
+categories: [ Jekyll, tutorial ]
 image: assets/images/6.jpg
 ---
 
