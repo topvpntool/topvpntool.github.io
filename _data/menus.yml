@@ -5,15 +5,19 @@ topmenu:
   url: ""
 
 - title: 翻墙软件
-  url: "/gfw/"
+  url: "gfw/"
 
-- title: Contact
-  url: "contact/"
+- title: 便宜VPN
+  url: "cheap-vpn/"
 
-- title: Get this theme  
-  url: https://topvpntool.github.io/
-  class: "ml-2 btn btn-dark text-white px-3"
-  external: true
+- title: 免费VPN
+  url: "free-vpn/"
+
+- title: 电脑VPN
+  url: "pc-vpn/"
+
+- title: 安卓VPN
+  url: "android-vpn/"
 
 # Footer Menu
 footermenu:
