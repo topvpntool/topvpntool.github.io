@@ -5,6 +5,40 @@ author: sal
 image: https://overwallvpn.com/wp-content/uploads/2023/04/netflix-%E8%A7%A3%E9%94%81%E6%95%99%E7%A8%8B%E4%B8%8E%E7%9C%81%E9%92%B1%E6%94%BB%E7%95%A5.jpg
 ---
 
+- [Netflix 教程简介](#netflix-教程简介)
+- [Netflix 套餐与订阅](#netflix-套餐与订阅)
+  - [账号所在区 ](#账号所在区)
+  - [Netflix 如何付费](#netflix-如何付费)
+- [Netflix 合租平台](#netflix-合租平台)
+  - [Netflix 注册在哪个区最便宜](#netflix-注册在哪个区最便宜)
+  - [Netflix 关于低费率地区的限制 ](#netflix-关于低费率地区的限制)
+- [Netflix 内容分区与字幕问题](#netflix-内容分区与字幕问题)
+  - [IP 地址与所看内容 ](#ip-地址与所看内容)
+  - [Netflix 中文字幕问题 ](#netflix-中文字幕问题)
+- [为什么 Netflix 有区域限制](#为什么-netflix-有区域限制)
+- [观看 Netflix 的设备](#观看-netflix-的设备)
+- [怎样在中国解锁并观看 Netflix](#怎样在中国解锁并观看-netflix)
+  - [1. 使用 VPN 工具翻墙观看 Netflix](#1-使用-vpn-工具翻墙观看-netflix)
+    - [一、PrivateVPN – 中国观看奈飞最佳VPN](#一privatevpn--中国观看奈飞最佳vpn)
+    - [二、ExpressVPN](#二expressvpn)
+    - [三、Surfshark](#三surfshark)
+    - [其他](#其他)
+  - [2. 自建 shadowsocks](#2-自建-shadowsocks)
+  - [3. 机场服务商](#3-机场服务商)
+- [如何选择最好的 Netflix VPN](#如何选择最好的-netflix-vpn)
+- [使用付费 VPN 来翻墙观看国外 Netflix 优点](#使用付费-vpn-来翻墙观看国外-netflix-优点)
+  - [1. 稳定性高且速度较快](#1-稳定性高且速度较快)
+  - [2. Netflix 跨区成功率接近百分百](#2-netflix-跨区成功率接近百分百)
+  - [3. 确保隐私安全](#3-确保隐私安全)
+- [解锁 Netflix 教程中的常见问题](#解锁-netflix-教程中的常见问题)
+  - [FAQ1：什么网络才可以看 Netflix， 为什么我购买的 / 搭建的 XX 提示有代理 ](#faq1什么网络才可以看-netflix-为什么我购买的--搭建的-xx-提示有代理)
+  - [FAQ2：我的 Netflix VPN 可以观看其他流媒体服务吗？](#faq2我的-netflix-vpn-可以观看其他流媒体服务吗)
+  - [FAQ3：如何下载 Netflix 客户端，为什么我搜不到 ](#faq3如何下载-netflix-客户端为什么我搜不到)
+  - [FAQ4：为什么我的盒子 / 手机使用 Netflix 时提示错误码 ](#faq4为什么我的盒子--手机使用-netflix-时提示错误码)
+  - [FAQ5：为什么我没法看高清的 Netflix](#faq5为什么我没法看高清的-netflix)
+  - [FAQ6：中国怎么购买 Netflix 最便宜 ](#faq6中国怎么购买-netflix-最便宜)
+
+
 ## Netflix 教程简介
 
 该如何在中国完整解锁 Netflix ？我们都知道 Netflix 在中国大陆也叫网飞、奈飞，它是全世界最大的视频流媒体平台，在除中国大陆地区以外的所有国家和地区均提供视频点播服务。现主要业务是提供视频流播服务和影片发行制作，市值已超越 Disney，目前全球订阅用户已经达到 2.2 亿。

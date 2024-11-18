@@ -5,6 +5,22 @@ author: sal
 image: https://overwallvpn.com/wp-content/uploads/2023/04/Youtube-%E8%A7%86%E9%A2%91%E4%B8%8B%E8%BD%BD%E6%96%B9%E6%B3%95.jpg
 ---
 
+- [Youtube 视频下载方法](#youtube-视频下载方法)
+  - [Youtube 视频下载首选工具: 4K Video Downloader](#youtube-视频下载首选工具-4k-video-downloader)
+  - [Youtube 视频下载方法一：网页登录 9Convert](#youtube-视频下载方法一网页登录-9convert)
+  - [Youtube 视频下载方法二：网页登录 Youtubemy](#youtube-视频下载方法二网页登录-youtubemy)
+  - [Youtube 视频下载方法三：网页登录 yout](#youtube-视频下载方法三网页登录-yout)
+  - [Youtube 视频下载方法四：网页登录 notube](#youtube-视频下载方法四网页登录-notube)
+  - [Youtube 视频下载方法五：网页登录 Audio](#youtube-视频下载方法五网页登录-audio)
+  - [Youtube 下载方法六：网页登录 savieo](#youtube-下载方法六网页登录-savieo)
+  - [Youtube 下载方法七：网页登录 YT1s](#youtube-下载方法七网页登录-yt1s)
+  - [Youtube 下载方法八：网页登录 ClipConverter](#youtube-下载方法八网页登录-clipconverter)
+  - [Youtube 下载方法九：网页登录 youtubeconverter.cx](#youtube-下载方法九网页登录-youtubeconvertercx)
+- [已证明失效的 Youtube 下载工具](#已证明失效的-youtube-下载工具)
+- [下载 Youtube 视频/MP4/MP3 违法吗？](#下载-youtube-视频mp4mp3-违法吗)
+- [结论](#结论)
+
+
 流量不够又想观看 YouTube 视频？喜欢的视频害怕某天就消失不见？没错，肯定会有某个时刻你会想下载 Youtube 视频到自己的手机/电脑上。那么我们除了在 奈飞小铺，蜜糖Metshop 合租Youtube Premium会员外还有什么方法呢？
 
 本篇文章我们就为大家介绍几种简单的方法，不需要安装软件，也不需要花钱的方式，来下载自己喜爱的 Youtube 视频或音频 MP3。
