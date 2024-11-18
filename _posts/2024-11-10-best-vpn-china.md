@@ -2,7 +2,7 @@
 layout: post
 title:  "2024年中国好用的VPN推荐，安全可靠的翻墙软件"
 author: sal
-image: [assets/images/1.jpg](https://overwallvpn.com/wp-content/uploads/2023/04/bypass-great-fire-wall.jpg)
+image: https://overwallvpn.com/wp-content/uploads/2023/04/bypass-great-fire-wall.jpg
 ---
 
 ![VPN推荐](https://overwallvpn.com/wp-content/uploads/2023/04/bypass-great-fire-wall.jpg)
