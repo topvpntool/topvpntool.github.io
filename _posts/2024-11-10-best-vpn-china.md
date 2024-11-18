@@ -5,8 +5,6 @@ author: sal
 image: https://overwallvpn.com/wp-content/uploads/2023/04/bypass-great-fire-wall.jpg
 ---
 
-![VPN推荐](https://overwallvpn.com/wp-content/uploads/2023/04/bypass-great-fire-wall.jpg)
-
 中国大陆网络环境特殊，众所周知，翻墙属于“灰色行为”，因此 VPN 行业也属于“灰色行业”，VPN 稳定运行就有许多不稳定的因素，我们要如何从这纷繁复杂的环境中，将好用的、适用于中国的 VPN 挑选出来为我们所用？专业的事当然要交给我们这些专业测评 VPN 的人来做。
 
 首先我们要了解，在中国可用的 VPN，有哪些要点是必须要考虑的
