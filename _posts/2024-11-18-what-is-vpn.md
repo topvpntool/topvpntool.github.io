@@ -2,7 +2,7 @@
 layout: post
 title:  "VPN是什么？VPN都有些什么用途？"
 author: sal
-image: assets/images/2.jpg
+image: https://overwallvpn.com/wp-content/uploads/2023/04/VPN-%E7%94%A8%E9%80%94.jpg
 ---
 
 ## 一、VPN 是什么？

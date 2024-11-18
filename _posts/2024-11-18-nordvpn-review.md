@@ -2,7 +2,7 @@
 layout: post
 title:  "【NordVPN怎么样】NordVPN不能用了是真的吗？"
 author: sal
-image: assets/images/1.jpg
+image: https://overwallvpn.com/wp-content/uploads/2023/04/nordvpn-review.jpg
 ---
 
 ## NordVPN 基本介绍

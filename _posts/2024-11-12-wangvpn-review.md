@@ -2,7 +2,7 @@
 layout: post
 title:  "没有任何付费项目的老王VPN，为何没有成为VPN界白月光？"
 author: sal
-image: assets/images/2.jpg
+image: https://overwallvpn.com/wp-content/uploads/2023/04/%E8%80%81%E7%8E%8BVPN.jpg
 ---
 
 老王 VPN 也叫 Wang VPN， 是近几年来 Android 系统很有名的一款免费 VPN，究其原因是因为其真正的免费服务，没有任何所谓的付费订阅，也没有速度和流量限制。

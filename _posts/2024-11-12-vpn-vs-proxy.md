@@ -2,7 +2,7 @@
 layout: post
 title:  "SS、SSR、V2ray、Trojan这几种翻墙协议与VPN对比有何不同？"
 author: sal
-image: assets/images/2.jpg
+image: https://overwallvpn.com/wp-content/uploads/2023/04/vpn%E5%92%8C%E4%BB%A3%E7%90%86.jpg
 ---
 
 其实科学上网的方式还有很多，例如 SS、SSR、V2ray、Trojan、Xray 等，不只有 VPN 才能翻墙。

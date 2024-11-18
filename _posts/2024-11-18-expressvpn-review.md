@@ -2,7 +2,7 @@
 layout: post
 title:  "2024年ExpressVPN中国详细测评，家喻户晓的ExpressVPN怎么样"
 author: sal
-image: assets/images/2.jpg
+image: https://overwallvpn.com/wp-content/uploads/2023/04/img_express.jpeg
 ---
 
 网络中可以看到很多 VPN 测评的文章，其中最频繁的就属 ExpressVPN，但基本上都是参考国外的相关测评文章和官方公布的信息。另外还有某某品牌的 VPN 拥有几千台服务器、又有了某项新的功能、带宽有多大、速度有多快等等。也许这些 VPN 确实能获得非常好的体验，但是对于中国的用户来说，这些信息其实都没有参考的价值，国内防火墙不断地的更新迭代，所谓的几千台服务器如果在国内没有一个能连通，是不是变得一文不值？

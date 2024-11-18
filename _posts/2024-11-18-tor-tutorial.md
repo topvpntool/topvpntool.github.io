@@ -2,7 +2,7 @@
 layout: post
 title:  "2024年最新Tor浏览器教程及暗网访问指南"
 author: sal
-image: assets/images/2.jpg
+image: https://overwallvpn.com/wp-content/uploads/2023/04/tor-browser-download-cn.jpg
 ---
 
 Tor 浏览器可以保护你的在线隐私，这是数字时代匿名浏览网络的最佳做法之一，例如匿名访问暗网，你需要同时使用 Tor 和 VPN，才能享有最高安全等级的隐私保护 。 但它并不完美，有些注意事项你需要铭记在心，弄清楚自己将会面临什么，以及必须进行的设置。

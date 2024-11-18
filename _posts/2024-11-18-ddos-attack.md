@@ -2,7 +2,7 @@
 layout: post
 title:  "什么是DDOS攻击？怎么有效防御DDOS攻击？"
 author: sal
-image: assets/images/2.jpg
+image: https://overwallvpn.com/wp-content/uploads/2023/04/%E4%BB%80%E4%B9%88%E6%98%AFDDOS.jpg
 ---
 
 ## 一、DDoS 攻击的含义

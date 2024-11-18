@@ -2,7 +2,7 @@
 layout: post
 title:  "2024中国解锁Netflix教程，秒懂奈飞合租、套餐、内容分区难题"
 author: sal
-image: assets/images/1.jpg
+image: https://overwallvpn.com/wp-content/uploads/2023/04/netflix-%E8%A7%A3%E9%94%81%E6%95%99%E7%A8%8B%E4%B8%8E%E7%9C%81%E9%92%B1%E6%94%BB%E7%95%A5.jpg
 ---
 
 ## Netflix 教程简介

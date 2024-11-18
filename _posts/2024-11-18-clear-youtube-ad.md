@@ -2,7 +2,7 @@
 layout: post
 title:  "Youtube去广告—详解6种去广告免费教程！"
 author: sal
-image: assets/images/2.jpg
+image: https://overwallvpn.com/wp-content/uploads/2023/04/youtube%E4%B8%8B%E8%BD%BD.jpg
 ---
 
 作为国外最大最火的视频网站，YouTube 的视频资源是非常丰富的，但是在观看视频时总是有广告跳出来，破坏我们观看视频的完整度，以及观看的兴致，那么 YouTube 免广告改怎么做？大家看了下面这篇教程之后就可以享受 和 YouTube 会员一样的丝滑体验了哦。
