@@ -56,13 +56,13 @@ post_class: post-template
               {% endif %} -->
 
               {% for post in site.posts %}
-                <div class="col-md-6 text-right pr-0">
-                    <li>
-                    <a class="thepostlink" href="{{post.url | absolute_url}}">{{post.title}} &raquo;</a>
-                    <span>({{ post.date | date: "%Y-%m-%d" }})</span>
-                    </li>
-                </div>
-              {% endfor %}
+				{% unless forloop.last %}
+				<div class="col-md-6 text-right pr-0">
+					<a class="thepostlink" href="{{post.url | absolute_url}}">{{post.title}} &raquo;</a>
+					<span>({{ post.date | date: "%Y-%m-%d" }})</span>
+				</div>
+				{% endunless %}
+			  {% endfor %}
             </div>
             <!-- End Prev/Next -->
 
