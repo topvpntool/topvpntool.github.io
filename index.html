@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 disqus: false
 archive: false
 post_class: post-template
@@ -40,7 +40,7 @@ post_class: post-template
     <!-- Post Date -->
     <p>
       <small>
-        <span class="post-date"><time class="post-date" datetime="{{ first_page.date | date:"%Y年%-m月%-d日" }}">{{ first_page.date | date_to_string }}</time></span>
+        <span class="post-date"><time class="post-date" datetime="{{ first_page.date | date:"%Y年%-m月%-d日" }}">{{ first_page.date | date:"%Y年%-m月%-d日" }}</time></span>
         {% if first_page.last_modified_at %}
         (Updated: <time datetime="{{ first_page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ first_page.last_modified_at | date: "%b %-d, %Y" }}</time>)
         {% endif %}
