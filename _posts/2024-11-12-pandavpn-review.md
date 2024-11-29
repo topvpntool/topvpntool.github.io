@@ -200,9 +200,9 @@ Panda VPN 的客服优势在于中文服务，用户可以完全用中文与 Pan
 
 ## **稳定性：**
 
-就稳定性而言，Panda VPN 在经过连续多日的连线测试中，鲜少出现断线的情况。这个相比于 NordVPN 这类国际大厂而言是完全胜出的。
+就稳定性而言，Panda VPN 在经过连续多日的连线测试中，鲜少出现断线的情况。这个相比于 VyprVPN 这类国际大厂而言是完全胜出的。
 
-我的许多朋友都已经从 NordVPN, IvacyVPN 等 VPN 国际大厂改用 Panda VPN. 主要原因就在于 Panda VPN 不但在价格上面具备很好的竞争优势外，还提供了高度的稳定性。
+我的许多朋友都已经从 VyprVPN, IvacyVPN 等 VPN 国际大厂改用 Panda VPN. 主要原因就在于 Panda VPN 不但在价格上面具备很好的竞争优势外，还提供了高度的稳定性。
 
 ## **节点：**
 
@@ -280,7 +280,7 @@ Panda VPN 速度测评
 
 ## Panda VPN 安装详细教程
 
-Panda VPN 对市面上所有主流的设备都做了支持，包括  Windows、Mac、iOS、Android、Linux、Android TV 精美无障碍的客户端。
+Panda VPN 对市面上所有主流的设备都做了支持，包括 Windows、Mac、iOS、Android、Linux、Android TV 精美无障碍的客户端。
 
 ### Panda VPN 电脑端的下载与安装
 
