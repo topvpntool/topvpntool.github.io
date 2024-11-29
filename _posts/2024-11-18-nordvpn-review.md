@@ -19,17 +19,19 @@ NordVPN 自从 2012 年成立以来成长迅速，目前已经成为全球最大
 
 ## NordVPN 规格
 
-<table><tbody><tr><td>日志记录政策</td><td>用户部分匿名信息</td></tr><tr><td>管辖权</td><td>巴拿马</td></tr><tr><td>解锁 Netflix</td><td>是</td></tr><tr><td>提供独立 IP</td><td>是</td></tr><tr><td>跨越防火长城</td><td>几乎不可用</td></tr><tr><td>广告拦截功能</td><td>有</td></tr><tr><td>每月 VPN 流量限制</td><td>无限</td></tr><tr><td>同时使用设备数量</td><td>6</td></tr><tr><td>服务器数量</td><td>5400+</td></tr><tr><td>提供国家/ 地区数量</td><td>60</td></tr><tr><td>Windows 提供的 VPN 协议</td><td>OpenVPN（TCP / UDP）、NordLynx、IKEv2（需手动设置）</td></tr><tr><td>Mac 提供的 VPN 协议</td><td>IKEv2 、 OpenVPN （TCP/UDP 、 、 NordLynx</td></tr><tr><td>iOS 提供的 VPN 协议</td><td>IKEv2 、 OpenVPN （TCP/UDP 、 、 NordLynx</td></tr><tr><td>Android 提供的 VPN 协议</td><td>OpenVPN（TCP / UDP）、NordLynx、IKEv2（需手动设置）</td></tr><tr><td>P2P 下载</td><td>支持</td></tr><tr><td>其余附加功能、产品</td><td>NordPass、NordLocker</td></tr><tr><td>支付宝付款：</td><td>否</td></tr><tr><td>官方网站：</td><td>https://NordVPN.com</td></tr><tr><td>优惠活动：</td><td>65%折扣</td></tr></tbody></table>
+<table><tbody><tr><td>日志记录政策</td><td>用户部分匿名信息</td></tr><tr><td>管辖权</td><td>巴拿马</td></tr><tr><td>解锁 Netflix</td><td>是</td></tr><tr><td>提供独立 IP</td><td>是</td></tr><tr><td>跨越防火长城</td><td>是</td></tr><tr><td>广告拦截功能</td><td>有</td></tr><tr><td>每月 VPN 流量限制</td><td>无限</td></tr><tr><td>同时使用设备数量</td><td>6</td></tr><tr><td>服务器数量</td><td>5400+</td></tr><tr><td>提供国家/ 地区数量</td><td>60</td></tr><tr><td>Windows 提供的 VPN 协议</td><td>OpenVPN（TCP / UDP）、NordLynx、IKEv2（需手动设置）</td></tr><tr><td>Mac 提供的 VPN 协议</td><td>IKEv2 、 OpenVPN （TCP/UDP 、 、 NordLynx</td></tr><tr><td>iOS 提供的 VPN 协议</td><td>IKEv2 、 OpenVPN （TCP/UDP 、 、 NordLynx</td></tr><tr><td>Android 提供的 VPN 协议</td><td>OpenVPN（TCP / UDP）、NordLynx、IKEv2（需手动设置）</td></tr><tr><td>P2P 下载</td><td>支持</td></tr><tr><td>其余附加功能、产品</td><td>NordPass、NordLocker</td></tr><tr><td>支付宝付款：</td><td>否</td></tr><tr><td>官方网站：</td><td>https://NordVPN.com</td></tr><tr><td>优惠活动：</td><td>65%折扣</td></tr></tbody></table>
 
 ## NordVPN 中国可以翻墙成功吗？
 
-**可以，但使用极其不便。**
+**NordVPN已完成新版本更新，翻墙稳定性大幅提升。**
+
+[领取 NordVPN 优惠，含折扣+免费赠送 3 个月](https://overwallvpn.com/go/nordvpn)
 
 NordVPN 的自身软件和 App（包括 Windows 和 Mac 电脑软件、安卓、iPhone、iPad APP 等）在中国大陆表现不稳定，经常出现无法连接到任何 VPN 服务器的现象。如果需要在中国使用 NordVPN，需要手动设置。
 
 包括手动下载特殊的信用程序，选择协议等操作，且桌面端与移动端都需要不同的设置。通过我们实际的操作发现，官方提供的方法可行但不长久，设置后无法坚持较长时间，一旦失效就需要重新设置。总之身处大陆的用户并不推荐 NordVPN，可选择 StrongVPN。
 
-NordVPN 有提供 30 天无条件退款的机制，对于只是短时间在大陆的人，可以先通过官方推荐的方法进行设置，来应付紧急之用。如果长期使用的话，此种配置方法过于麻烦，肯定对你的日常使用有不好的影响，况且这种连接方式也不能得到最佳的速度。
+NordVPN 有提供 30 天无条件退款的机制，对于只是短时间在大陆的人，可以先通过官方推荐的方法进行设置，来应付紧急之用。如果长期使用的话，此种配置方法过于麻烦，肯定对你的日常使用有不好的影响，况且这种连接方式也不能得到最佳的速度。 
 
 - [NordVPN 基本介绍](#NordVPN-基本介绍)
 - [NordVPN 规格](#NordVPN-规格)
