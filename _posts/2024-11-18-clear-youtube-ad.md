@@ -7,19 +7,6 @@ image: https://overwallvpn.com/wp-content/uploads/2023/04/youtube%E4%B8%8B%E8%BD
 
 作为国外最大最火的视频网站，YouTube 的视频资源是非常丰富的，但是在观看视频时总是有广告跳出来，破坏我们观看视频的完整度，以及观看的兴致，那么 YouTube 免广告改怎么做？大家看了下面这篇教程之后就可以享受 和 YouTube 会员一样的丝滑体验了哦。
 
-- [**#1【StrongVPN 广告拦截+屏蔽恶意网站】**](#1strongvpn-广告拦截屏蔽恶意网站)
-- [**#2【Adblock Plus 扩展程序】**](#2adblock-plus-扩展程序)
-  - [**Adblock Plus** **在** **pc** **端去广告教程**](#adblock-plus-在-pc-端去广告教程)
-    - [其他浏览器（Safari 浏览器、Edge、360 浏览器、Firefox、Opera 适用）](#其他浏览器safari-浏览器edge360-浏览器firefoxopera-适用)
-  - [移动客户 端 Youtube 去广告](#移动客户-端-youtube-去广告)
-  - [**安卓手机去 Youtube 广告**](#安卓手机去-youtube-广告)
-- [**#4【拉到最后再 按 replay（重播）】**](#4拉到最后再-按-replay重播)
-- [**#5**\*\*【下载影片观看】\*\*](#5下载影片观看)
-- [**#6【在路由器上直接过滤广告】**](#6在路由器上直接过滤广告)
-- [**#番外 —【注册成 为 YouTube Premium 会员】**](#番外-注册成-为-youtube-premium-会员)
-- [**#特别推荐—【使 用 StrongVPN】**](#特别推荐使-用-strongvpn)
-
-
 ## **#1【StrongVPN 广告拦截+屏蔽恶意网站】**
 
 StrongVPN 是一款风靡全网的翻墙 VPN , 不仅可以解锁翻墙，保护隐私安全，加速网络访问，还可以去youtube 广告，有效的拦截各类网站和 APP 的广告，以及屏蔽各类恶意网站，还你一个干净的上网环境。

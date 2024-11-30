@@ -2,7 +2,7 @@
 layout: post
 title:  "2024年ExpressVPN中国详细测评，家喻户晓的ExpressVPN怎么样"
 author: sal
-image: https://overwallvpn.com/wp-content/uploads/2023/04/img_express.jpeg
+image: https://overwallvpn.com/wp-content/uploads/2023/04/nordvpn-review.jpg
 ---
 
 网络中可以看到很多 VPN 测评的文章，其中最频繁的就属 ExpressVPN，但基本上都是参考国外的相关测评文章和官方公布的信息。另外还有某某品牌的 VPN 拥有几千台服务器、又有了某项新的功能、带宽有多大、速度有多快等等。也许这些 VPN 确实能获得非常好的体验，但是对于中国的用户来说，这些信息其实都没有参考的价值，国内防火墙不断地的更新迭代，所谓的几千台服务器如果在国内没有一个能连通，是不是变得一文不值？
@@ -47,34 +47,6 @@ ExpressVPN 成立于 2009 年，是全球知名的 VPN 服务商之一， 为 Ex
 因此，尽管英属维尔京群岛严格来说是英国的海外领土，但作为一个自治国家，他们并不受英国法律的限制。更重要的是，他们没有签署国际信号共享联盟（9 眼/14 眼联盟），这意味着你不需要担心介入性的立法和协议，这是 14 眼成员国的主要内容。
 
 2021 年 9 月 13 日，Kape Technologies 宣布以近 10 亿美元的价格收购 ExpressVPN。这家英国-以色列合资的科技公司已经拥有大量 VPN，其中 CyberGhost、Private Internet Access 和ZenMate 都是其旗下子公司。
-
-- [ExpressVPN 的优缺点比较](#ExpressVPN-的优缺点比较)
-  - [优点：](#优点)
-  - [缺点：](#缺点)
-- [关于 ExpressVPN](#关于-ExpressVPN)
-- [ExpressVPN 在中国好用吗？](#ExpressVPN-在中国好用吗)
-- [ExpressVPN 中国用户可用服务器](#ExpressVPN-中国用户可用服务器)
-- [ExpressVPN 特点](#ExpressVPN-特点)
-  - [ExpressVPN 服务器广泛](#ExpressVPN-服务器广泛)
-  - [ExpressVPN 安全协议](#ExpressVPN-安全协议)
-  - [ExpressVPN 无日志政策](#ExpressVPN-无日志政策)
-  - [DNS 泄露保护](#dns-泄露保护)
-  - [终止保护开关](#终止保护开关)
-  - [隧道分流功能](#隧道分流功能)
-  - [Netflix 等流媒体解锁](#netflix-等流媒体解锁)
-- [ExpressVPN 客户端支持](#ExpressVPN-客户端支持)
-- [ExpressVPN 价格与付款方式](#ExpressVPN-价格与付款方式)
-- [ExpressVPN 下载](#ExpressVPN-下载)
-  - [ExpressVPN 电脑版下载](#ExpressVPN-电脑版下载)
-  - [ExpressVPN 安卓下载](#ExpressVPN-安卓下载)
-  - [ExpressVPN iOS 下载](#ExpressVPN-ios-下载)
-- [ExpressVPN 在中国使用有什么缺点](#ExpressVPN-在中国使用有什么缺点)
-- [总结：ExpressVPN 好用吗？](#总结ExpressVPN-好用吗)
-- [常见问题答疑](#常见问题答疑)
-  - [ExpressVPN 提供免费试用吗？](#ExpressVPN-提供免费试用吗)
-  - [有 ExpressVPN 破解版吗？](#有-ExpressVPN-破解版吗)
-  - [ExpressVPN 可以进行种子下载吗？](#ExpressVPN-可以进行种子下载吗)
-
 
 ## ExpressVPN 在中国好用吗？
 
