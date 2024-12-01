@@ -31,37 +31,6 @@ NordVPN 的自身软件和 App（包括 Windows 和 Mac 电脑软件、安卓、
 
 NordVPN 有提供 30 天无条件退款的机制，对于只是短时间在大陆的人，可以先通过官方推荐的方法进行设置，来应付紧急之用。如果长期使用的话，此种配置方法过于麻烦，肯定对你的日常使用有不好的影响，况且这种连接方式也不能得到最佳的速度。
 
-- [NordVPN 基本介绍](#nordvpn-基本介绍)
-- [NordVPN 规格](#nordvpn-规格)
-- [NordVPN 中国可以翻墙成功吗？](#nordvpn-中国可以翻墙成功吗)
-- [NordVPN 主要功能](#nordvpn-主要功能)
-  - [主要特点](#主要特点)
-  - [设备支持](#设备支持)
-  - [服务器分布及数量](#服务器分布及数量)
-  - [速度测试](#速度测试)
-  - [NordLynx 协议](#nordlynx-协议)
-  - [NordVPN 隐私和安全保障](#nordvpn-隐私和安全保障)
-    - [零日志政策](#零日志政策)
-    - [NordVPN 管辖权](#nordvpn-管辖权)
-    - [NordVPN 专用服务器](#nordvpn-专用服务器)
-    - [CyberSec](#cybersec)
-    - [DNS 泄露](#dns-泄露)
-    - [终止开关](#终止开关)
-    - [加密及安全协议](#加密及安全协议)
-- [NordVPN 解锁线上串流影音服务](#nordvpn-解锁线上串流影音服务)
-  - [Netflix 解锁实测](#netflix-解锁实测)
-  - [Disney+ 解锁实测](#disney-解锁实测)
-  - [Amazon Prime Video 解锁实测](#amazon-prime-video-解锁实测)
-- [NordVPN 价格与付款方式](#nordvpn-价格与付款方式)
-- [NordVPN 评测结论](#nordvpn-评测结论)
-- [常见问题](#常见问题)
-  - [NordVPN 有没有优惠活动？](#nordvpn-有没有优惠活动)
-  - [NordVPN 的客户支援好不好？](#nordvpn-的客户支援好不好)
-  - [NordVPN 破解版下载地址？](#nordvpn-破解版下载地址)
-  - [NordVPN 有流量和宽带限制吗？](#nordvpn-有流量和宽带限制吗)
-  - [NordVPN 有免费试用吗？](#nordvpn-有免费试用吗)
-
-
 ## NordVPN 主要功能
 
 ### 主要特点

@@ -48,34 +48,6 @@ ExpressVPN 成立于 2009 年，是全球知名的 VPN 服务商之一， 为 Ex
 
 2021 年 9 月 13 日，Kape Technologies 宣布以近 10 亿美元的价格收购 ExpressVPN。这家英国-以色列合资的科技公司已经拥有大量 VPN，其中 CyberGhost、Private Internet Access 和 ZenMate 都是其旗下子公司。
 
-- [ExpressVPN 的优缺点比较](#expressvpn-的优缺点比较)
-  - [优点：](#优点)
-  - [缺点：](#缺点)
-- [关于 ExpressVPN](#关于-expressvpn)
-- [ExpressVPN 在中国好用吗？](#expressvpn-在中国好用吗)
-- [ExpressVPN 中国用户可用服务器](#expressvpn-中国用户可用服务器)
-- [ExpressVPN 特点](#expressvpn-特点)
-  - [ExpressVPN 服务器广泛](#expressvpn-服务器广泛)
-  - [ExpressVPN 安全协议](#expressvpn-安全协议)
-  - [ExpressVPN 无日志政策](#expressvpn-无日志政策)
-  - [DNS 泄露保护](#dns-泄露保护)
-  - [终止保护开关](#终止保护开关)
-  - [隧道分流功能](#隧道分流功能)
-  - [Netflix 等流媒体解锁](#netflix-等流媒体解锁)
-- [ExpressVPN 客户端支持](#expressvpn-客户端支持)
-- [ExpressVPN 价格与付款方式](#expressvpn-价格与付款方式)
-- [ExpressVPN 下载](#expressvpn-下载)
-  - [ExpressVPN 电脑版下载](#expressvpn-电脑版下载)
-  - [ExpressVPN 安卓下载](#expressvpn-安卓下载)
-  - [ExpressVPN iOS 下载](#expressvpn-ios-下载)
-- [ExpressVPN 在中国使用有什么缺点](#expressvpn-在中国使用有什么缺点)
-- [总结：ExpressVPN 好用吗？](#总结expressvpn-好用吗)
-- [常见问题答疑](#常见问题答疑)
-  - [ExpressVPN 提供免费试用吗？](#expressvpn-提供免费试用吗)
-  - [有 ExpressVPN 破解版吗？](#有-expressvpn-破解版吗)
-  - [ExpressVPN 可以进行种子下载吗？](#expressvpn-可以进行种子下载吗)
-
-
 ## ExpressVPN 在中国好用吗？
 
 **可以使用，但不够好用。**
