@@ -622,24 +622,5 @@ span.navigation:before {
     background-color: #f5c16c; 
     color: #333; 
     padding: 0.5rem;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    position: relative;
     animation: slideIn 0.5s ease-out;
-}
-
-.notification-bar p {
-    margin: 0;
-    font-size: 1rem;
-}
-
-.notification-bar a {
-    color: white;
-    font-weight: bold;
-    text-decoration: underline;
-}
-
-.notification-bar a:hover {
-    text-decoration: none;
 }
