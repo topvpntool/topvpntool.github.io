@@ -617,3 +617,29 @@ span.navigation:before {
     transition: all.3s;
     opacity:.8;
 }
+
+.notification-bar {
+    background-color: #ff9800;
+    color: white;
+    padding: 1rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    animation: slideIn 0.5s ease-out;
+}
+
+.notification-bar p {
+    margin: 0;
+    font-size: 1rem;
+}
+
+.notification-bar a {
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.notification-bar a:hover {
+    text-decoration: none;
+}
