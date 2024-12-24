@@ -13,7 +13,7 @@ image: https://overwallvpn.com/wp-content/uploads/2023/04/best-vpn-china.jpg
 
 ![应用商店中的VPN软件](https://overwallvpn.com/wp-content/uploads/2024/12/lots-of-vpns.jpg)
 
-> 应用商店中充斥着大量的免费版，破解版以及所谓的最佳VPN，但没有几款VPN是真正在中国能用的。
+> 应用商店中充斥着大量的免费版，破解版以及所谓的最佳VPN，但没有几款VPN是真正在中国能用的。而且很多推荐VPN的网站，甚至都没有自己真正测试过...
 
 不少国外的 VPN 产品在中国的使用也受到很大影响，即使国外大厂的 VPN，在中国好用的也很少了，比如不少人推荐的**CyberGhost、IPvanish、VyprVPN 和 IVacy 在大陆其实已经很难用**了，蓝灯也存在隐私信息泄漏的风险，看到的读者不要再入坑，名气如 NordVPN 也几乎无法使用了，看到一些翻墙相关的博客网站还在推荐这些，说如何如何好用，根本没提到这些 VPN 在大陆的使用缺点，估计他们根本没有在大陆实地用过，只是把没有时效的文章搬运或者是按照国外的使用情况套在中国的网络环境中。
 
