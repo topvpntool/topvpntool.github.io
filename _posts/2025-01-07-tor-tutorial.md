@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2024年最新Tor浏览器教程及暗网访问指南"
+title:  "2025年最新Tor浏览器教程及暗网访问指南"
 author: sal
 image: https://overwallvpn.com/wp-content/uploads/2023/04/tor-browser-download-cn.jpg
 ---

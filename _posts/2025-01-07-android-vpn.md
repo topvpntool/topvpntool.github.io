@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2024年最好用的7个安卓VPN推荐！最详细安卓设备翻墙教程"
+title:  "2025年最好用的7个安卓VPN推荐！最详细安卓设备翻墙教程"
 author: sal
 image: https://overwallvpn.com/wp-content/uploads/2023/04/%E5%AE%89%E5%8D%93VPN.jpg
 ---
