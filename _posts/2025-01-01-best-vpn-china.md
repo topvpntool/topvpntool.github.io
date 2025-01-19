@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "实测|2024中国十大翻墙VPN推荐，好用的VPN软件排行"
+title:  "实测|2025中国十大翻墙VPN推荐，好用的VPN软件排行"
 author: sal
 image: https://overwallvpn.com/wp-content/uploads/2023/04/best-vpn-china.jpg
 ---
