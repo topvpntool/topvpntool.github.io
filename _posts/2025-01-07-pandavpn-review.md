@@ -214,7 +214,7 @@ Panda VPN 速度测评
 
 ## Panda VPN 安装详细教程
 
-Panda VPN 对市面上所有主流的设备都做了支持，包括  Windows、Mac、iOS、Android、Linux、Android TV 精美无障碍的客户端。
+Panda VPN 对市面上所有主流的设备都做了支持，包括 Windows、Mac、iOS、Android、Linux、Android TV 精美无障碍的客户端。
 
 ### Panda VPN 电脑端的下载与安装
 

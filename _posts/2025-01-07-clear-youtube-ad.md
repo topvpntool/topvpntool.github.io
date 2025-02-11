@@ -44,7 +44,7 @@ Adblock Plus 扩展程序不只是 Chrome 和 Firefox 上可以使用， 在 Saf
 
 **IOS(****苹果手机)**
 
-1.   在 App store 里面搜 索 AdBlock for Mobile，点击并下载！
+1.  在 App store 里面搜 索 AdBlock for Mobile，点击并下载！
 
 2.下载安装以后，进入“设置”，找 到 safari 浏览器选项，并点击进入！
 
