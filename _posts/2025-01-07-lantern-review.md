@@ -130,4 +130,4 @@ image: https://overwallvpn.com/wp-content/uploads/2024/11/lantern-vpn.jpg
 立即获取 PrivateVPN
 
 
-原文链接：[https://overwallvpn.com/lantern-review/](https://overwallvpn.com/lantern-review/)
+原文链接：[https://topvpntool.github.io/lantern-review/](https://overwallvpn.com/lantern-review/)

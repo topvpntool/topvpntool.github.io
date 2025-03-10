@@ -111,4 +111,4 @@ PrivateVPN 在全球都有高速节点，解锁所有热门流媒体，高清 4K
 
 》》查看如何在中国下载 Youtube 视频
 
-原文链接：[https://overwallvpn.com/clear-youtube-ad/](https://overwallvpn.com/clear-youtube-ad/)
+原文链接：[https://topvpntool.github.io/clear-youtube-ad/](https://overwallvpn.com/clear-youtube-ad/)

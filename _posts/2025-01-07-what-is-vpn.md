@@ -339,4 +339,4 @@ VPN 官方下载地址大全
 总结来说，就是要低调，要正派。
 
 
-原文链接：[https://overwallvpn.com/what-is-vpn/](https://overwallvpn.com/what-is-vpn/)
+原文链接：[https://topvpntool.github.io/what-is-vpn/](https://overwallvpn.com/what-is-vpn/)
