@@ -110,3 +110,5 @@ PrivateVPN 在全球都有高速节点，解锁所有热门流媒体，高清 4K
 对于去 youtube 广告以及各类网页、浏览器、App 内置的广告，网络上有很多的插件，和其他小技术、小技巧，但大体原理都差不多，我们只是给大家提供最简单容易上手并且最直接有效的方法，有更好的方法，欢迎交流！
 
 》》查看如何在中国下载 Youtube 视频
+
+原文链接：[https://overwallvpn.com/clear-youtube-ad/](https://overwallvpn.com/clear-youtube-ad/)

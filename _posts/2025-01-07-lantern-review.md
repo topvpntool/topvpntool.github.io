@@ -128,3 +128,6 @@ image: https://overwallvpn.com/wp-content/uploads/2024/11/lantern-vpn.jpg
 蓝灯 VPN 不支持退款，也没有客服服务，所以更不要随便为其氪金，他们的套餐时间也都不短，综合下来是一笔不小的支出，重要的是，花了钱，还不能正常安全的使用，建议诸君慎选及慎用。
 
 立即获取 PrivateVPN
+
+
+原文链接：[https://overwallvpn.com/lantern-review/](https://overwallvpn.com/lantern-review/)

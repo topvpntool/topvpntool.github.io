@@ -222,3 +222,5 @@ Netflix 对能够播放高清 /4K 的设备 处理器有要求，具体请查看
 目前我尝试过比靠谱的中国 Netflix 合租平台有：蜜糖商店、奈飞小镇 、奈飞小铺 。
 
 平均每月的价格都在 20 元 左右，和腾讯视频之类的差不多，可以接受，同时它们都支持翻车赔付和人工客服，也不会有账号不稳定的情况，建议可以尝试看看。
+
+原文链接：[https://overwallvpn.com/netflix-vpn/](https://overwallvpn.com/netflix-vpn/)
