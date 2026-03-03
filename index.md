@@ -1,4 +1,4 @@
-# 2025年翻墙科学上网详解，中国目前最稳定好用的VPN推荐
+# 2026年翻墙科学上网详解，中国目前最稳定好用的VPN推荐
 
 ![翻墙科学上网](https://overwallvpn.com/wp-content/uploads/2025/01/gfw.jpg)
 
